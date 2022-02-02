@@ -1,0 +1,2 @@
+Projeto simples com intuito de aplicar os conhecimentos básicos no início dessa jornada para aprender a programar.<br><br>
+O código consiste no uso de Títulos, espaçamentos através de linhas e listas tanto ordenadas quanto não ordenadas.
