@@ -13,3 +13,6 @@ Hoje foi o primeiro contato com formulários, então inseri eles nesse projeto q
 
 ## Quarto dia - Versão Dias depois (07/04/2022)
 Bom depois de um longo tempo longe daqui chegou a hora de voltar a estudar.
+
+## Quinto dia - Versão 4 (16/04/2022)
+Preparação dos arquivos para começar a usar folhas de estilo, que é o próximo passo no meu aprendizado com HTML.
