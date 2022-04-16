@@ -16,3 +16,6 @@ Bom depois de um longo tempo longe daqui chegou a hora de voltar a estudar.
 
 ## Quinto dia - Versão 4 (16/04/2022)
 Preparação dos arquivos para começar a usar folhas de estilo, que é o próximo passo no meu aprendizado com HTML.
+
+## Quinto dia - Versão 4.1 (16/04/2022)
+Aplicação de alguns estilos .css nas páginas a fim de reforçar e fixar o conteúdo aprendido.
