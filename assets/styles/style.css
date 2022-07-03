@@ -1,0 +1,44 @@
+/*========= GENERAL =========*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+  --primary-color: hsl(173, 18%, 39%);
+  --brand-dark: hsl(130, 6%, 64%);
+}
+
+body {
+  font-family: 'Gentium Book Plus', serif;
+  font-size: 1.6rem;
+
+  background: var(--brand-dark);
+}
+
+a {
+  color: #5b5b5b;
+  text-decoration: none;
+  font-weight: bolder;
+  padding: 6px;
+}
+
+#header {
+  width: 900px;
+}
+
+#menu {
+  background: #c0ffcd;
+  padding: 18px;
+}
+
+#conteudo {
+  background: #daf7ed;
+  padding: 10px;
+}
+
+#imgconteudo {
+  border: 5px solid #98c8b8;
+}
